@@ -25,7 +25,7 @@ const Payload = props => {
 
        <div id='section2'>
   <p>INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION.</p>
-     <img className='myImg3' src={myImg3}  width="80%"  />
+     <img className='myImg3' src={myImg3} alt="img"  width="80%"  />
      
        </div>
        <div className='line'></div>
